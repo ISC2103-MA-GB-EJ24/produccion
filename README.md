@@ -16,7 +16,7 @@ docker run -it ghcr.io/tmp-ma/calculadora:latest
 
 * Fracción - Comando para su despliegue:
 ```
-docker ...
+docker run -it orlandotec/fraccion:latest
 
 ```
 # Trabajo en Equipo
