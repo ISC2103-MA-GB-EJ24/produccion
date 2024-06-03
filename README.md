@@ -7,6 +7,8 @@ Repositorio simulador de ambiente de Producción
 ```
 docker run -it orlandotec/fraccion:latest
 
+docker run -it luisalbertoce/fraccion-2:latest
+
 ```
 
 # Trabajo en Equipo
