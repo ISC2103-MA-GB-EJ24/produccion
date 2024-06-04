@@ -11,7 +11,7 @@ docker run -it luisalbertoce/fraccion-2:latest
 
 docker run -it bryaninzunza/eq6calculadora:latest
 
-
+docker run -it maximilianorendon/eq5-fraccion:latest
 ```
 
 # Trabajo en Equipo
