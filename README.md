@@ -9,6 +9,9 @@ docker run -it orlandotec/fraccion:latest
 
 docker run -it luisalbertoce/fraccion-2:latest
 
+docker run -it bryaninzunza/eq6calculadora:latest
+
+
 ```
 
 # Trabajo en Equipo
