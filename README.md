@@ -12,6 +12,8 @@ docker run -it luisalbertoce/fraccion-2:latest
 docker run -it bryaninzunza/eq6calculadora:latest
 
 docker run -it maximilianorendon/eq5-fraccion:latest
+
+docker run -it josearlolo/fracciones_y_matrices_de_fracciones:latest
 ```
 
 # Trabajo en Equipo
